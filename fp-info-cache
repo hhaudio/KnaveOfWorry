@@ -1,4 +1,4 @@
-17635123330256974
+17636712210824974
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -48609,6 +48609,13 @@ LED diameter 5.0mm 2 pins
 2
 HammerheadAudio
 LED_D3.0mm_Centered
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+HammerheadAudio
+LED_D3.0mm_Centered_NoRef
 LED, diameter 3.0mm, 2 pins
 LED diameter 3.0mm 2 pins
 0
