@@ -1,4 +1,4 @@
-17636712210824974
+17639891095157974
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -231,16 +231,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -48608,6 +48608,13 @@ LED diameter 5.0mm 2 pins
 2
 2
 HammerheadAudio
+LED_Centered_NoRef_BothSides
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+HammerheadAudio
 LED_D3.0mm_Centered
 LED, diameter 3.0mm, 2 pins
 LED diameter 3.0mm 2 pins
@@ -48616,6 +48623,13 @@ LED diameter 3.0mm 2 pins
 2
 HammerheadAudio
 LED_D3.0mm_Centered_NoRef
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+HammerheadAudio
+LED_D3.0mm_Centered_NoRef_BothSides
 LED, diameter 3.0mm, 2 pins
 LED diameter 3.0mm 2 pins
 0
