@@ -952,7 +952,7 @@ F 1 "1M" H 8030 4695 50  0000 R CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 8030 4650 50  0001 C CNN
 F 3 "~" H 8100 4650 50  0001 C CNN
 	1    8100 4650
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R10
@@ -963,7 +963,7 @@ F 1 "1k" H 7670 4855 50  0000 L CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 7530 4900 50  0001 C CNN
 F 3 "~" H 7600 4900 50  0001 C CNN
 	1    7600 4900
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	7600 4600 7600 4750
@@ -1041,7 +1041,7 @@ F 1 "1M" H 6080 6445 50  0000 R CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 6080 6400 50  0001 C CNN
 F 3 "~" H 6150 6400 50  0001 C CNN
 	1    6150 6400
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	6050 6150 6150 6150
