@@ -1,4 +1,4 @@
-17651013353170974
+17662136110905974
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -48531,6 +48531,20 @@ CenterNeg_PowerSymbol
 0
 0
 HammerheadAudio
+DIP-8_W7.62mm_Socket_2Sides
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+HammerheadAudio
+DIP-28_W7.62mm_Socket_2Sides
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+28
+28
+HammerheadAudio
 DO-35-P5mm
 Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
 Diode DO-34_SOD68 series Axial Horizontal pin pitch 7.62mm  length 3.04mm diameter 1.6mm
@@ -72520,6 +72534,27 @@ earth_lights
 0
 0
 Skelly
+ear_1.73x2.91mm
+
+
+0
+0
+0
+Skelly
+ear_2.59x4.37mm
+
+
+0
+0
+0
+Skelly
+ear_3.45x5.83mm
+
+
+0
+0
+0
+Skelly
 falling_angel_4.1x4mm_mask
 
 
@@ -73032,6 +73067,20 @@ pointer2_3.4x8.2mm
 0
 Skelly
 pointer2_4.85x11.7mm
+
+
+0
+0
+0
+Skelly
+shushinghead_2.5x2.13mm
+
+
+0
+0
+0
+Skelly
+shushinghead_3.77x3.2mm
 
 
 0
